@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2015\Projects\rfid_reader\ClassLibrary1\bin\Debug\engine.dll
+c:\users\user\documents\visual studio 2015\Projects\rfid_reader\ClassLibrary1\bin\Debug\engine.pdb
+c:\users\user\documents\visual studio 2015\Projects\rfid_reader\ClassLibrary1\obj\Debug\engine.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\rfid_reader\ClassLibrary1\obj\Debug\engine.dll
+c:\users\user\documents\visual studio 2015\Projects\rfid_reader\ClassLibrary1\obj\Debug\engine.pdb
