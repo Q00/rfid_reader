@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rfid_reader", "rfid_reader\rfid_reader.csproj", "{BE8FEAE4-2140-4387-AE3A-0F93BA1F3D8A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "engine", "ClassLibrary1\engine.csproj", "{921B8DC6-392F-45F4-BB4E-76B284D54F2E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{BE8FEAE4-2140-4387-AE3A-0F93BA1F3D8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BE8FEAE4-2140-4387-AE3A-0F93BA1F3D8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BE8FEAE4-2140-4387-AE3A-0F93BA1F3D8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{921B8DC6-392F-45F4-BB4E-76B284D54F2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{921B8DC6-392F-45F4-BB4E-76B284D54F2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{921B8DC6-392F-45F4-BB4E-76B284D54F2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{921B8DC6-392F-45F4-BB4E-76B284D54F2E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
