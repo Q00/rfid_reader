@@ -8,22 +8,15 @@ namespace engine
 {
     public struct rfid_tag_struct
     {
-        private string serial;
-        private string name;
-        private string price;
-
-        public rfid_tag_struct(string serial, string name, string price)
-        {
-            this.serial = serial;
-            this.name = name;
-            this.price = price;
-        }
+        public string Serial { get; set; }
+        public string Name { get; set; }
+        public int Price { get; set; }
     }
     public class Start
     {
-        public List<List<string>> start_loop()
+        public List<rfid_tag_struct> start_loop()
         {
-            return new List<List<string>>();
+            return new List<rfid_tag_struct>();
         }
     }
 

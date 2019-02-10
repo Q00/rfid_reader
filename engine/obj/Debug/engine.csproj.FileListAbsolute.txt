@@ -3,3 +3,8 @@ c:\users\user\documents\visual studio 2015\Projects\rfid_reader\ClassLibrary1\bi
 c:\users\user\documents\visual studio 2015\Projects\rfid_reader\ClassLibrary1\obj\Debug\engine.csprojResolveAssemblyReference.cache
 c:\users\user\documents\visual studio 2015\Projects\rfid_reader\ClassLibrary1\obj\Debug\engine.dll
 c:\users\user\documents\visual studio 2015\Projects\rfid_reader\ClassLibrary1\obj\Debug\engine.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\rfid_reader\engine\bin\Debug\engine.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\rfid_reader\engine\bin\Debug\engine.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\rfid_reader\engine\obj\Debug\engine.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2015\Projects\rfid_reader\engine\obj\Debug\engine.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\rfid_reader\engine\obj\Debug\engine.pdb

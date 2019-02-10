@@ -80,7 +80,10 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\ClassLibrary1\engine.csproj">
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\engine\engine.csproj">
       <Project>{921b8dc6-392f-45f4-bb4e-76b284d54f2e}</Project>
       <Name>engine</Name>
     </ProjectReference>
