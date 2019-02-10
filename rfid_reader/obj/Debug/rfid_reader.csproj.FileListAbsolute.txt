@@ -1,0 +1,1 @@
+c:\users\user\documents\visual studio 2015\Projects\rfid_reader\rfid_reader\bin\Debug\rfid_reader.exe.config
